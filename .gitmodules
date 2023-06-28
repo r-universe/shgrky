@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "COMIX"]
 	path = COMIX
 	url = https://github.com/cran/COMIX
-	shallow = true
-	registered = true
 [submodule "MultiFit"]
 	path = MultiFit
 	url = https://github.com/cran/MultiFit
-	shallow = true
-	registered = true
